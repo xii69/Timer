@@ -1,0 +1,7 @@
+name: Timer
+version: 1.0.0
+main: me.xii69.timer.Timer
+author: xii69
+description: Simple timer plugin
+commands:
+  timer:
